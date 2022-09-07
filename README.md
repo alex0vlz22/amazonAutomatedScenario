@@ -1,7 +1,7 @@
 # amazonAutomatedScenario
 This project is based on Selenium, TestNG, WebDriver and Java technologies for automating an scenario on amazon.in
 
-For executing this test, please go to AmazonTest.java for executing this scenario
+For executing this test: please clone development branch and go to AmazonTest.java for executing this scenario
 
 ![image](https://user-images.githubusercontent.com/57496840/188976684-fc898e39-910e-4680-9531-571a4e127f1c.png)
 
